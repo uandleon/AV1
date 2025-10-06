@@ -34,7 +34,7 @@ O sistema roda no terminal (modo CLI) e permite gerenciar funcionários, aeronav
 - npm ou yarn como gerenciador de pacotes
 
 ### 2️⃣ Clonar o repositório
-```bash
+bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
@@ -47,6 +47,7 @@ npx tsc
 ### 5️⃣ Executar o programa
 node dist/index.js
 
+```
 ### 👨‍💻 Criando o primeiro usuário ADMIN
 Ao rodar o sistema pela primeira vez, é necessário cadastrar um usuário com permissão ADMIN.
 Esse usuário terá acesso a todas as funcionalidades.
